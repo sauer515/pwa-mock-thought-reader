@@ -1,0 +1,1 @@
+const e={"chi-01":["Beer Ice Cream Booth."],"chi-02":["I prefer tea over coffee."],"chi-03":["My favorite sweet is chocolate."],"chi-04":["Yes I love hiking in the mountains."]};export{e as RESPONSES};
